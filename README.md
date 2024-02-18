@@ -17,6 +17,12 @@ Welcome to EduPanel, a comprehensive education management system with a Controll
 
 - **Build Tool:** Maven
 
+## Web services
+![Screenshot](./screenshots/api.png)
+## Entity relationship diagram
+![Screenshot](./screenshots/erd.png)
+## Schema
+![Screenshot](./screenshots/schema.png)
 
 ## Version
 0.1.0
